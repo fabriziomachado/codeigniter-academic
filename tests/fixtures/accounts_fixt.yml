@@ -1,0 +1,20 @@
+1:
+    provider: 'twitter'
+    login: 'fabriziocolombo'
+    password: ''
+    oauth_token: ''
+    person_id: 6
+    
+2:
+    provider: 'facebook'
+    login: 'fernandamontenegro'
+    password: ''
+    oauth_token: ''
+    person_id: 4
+
+2:
+    provider: 'erp'
+    login: 'jms'
+    password: '123456'
+    oauth_token: ''
+    person_id: 7        

@@ -1,0 +1,11 @@
+Para testar a aplicação da modelagem orientada a objetos,
+será construido um sistema fictício de um Sistema Acadêmico.
+
+Requisitos:
+- Um Curso pode ser formado por uma ou mais Disciplinas
+- Uma Disciplina pode fazer parte de muitos cursos ou nenhum
+- Cada Disciplina deve ser ministrada por um único Professor Responsável
+- Cada Disciplina pode pode ter outros professores adjuntos
+- Um professor pode ministrar uma ou muitas disciplinas diferentes
+- Cada turma de estudantes deve ter uma sala de aula
+- Um estudante pode se matricular em um ou vários curso ou ainda em disciplinas isoladas

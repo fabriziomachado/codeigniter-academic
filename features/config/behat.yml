@@ -1,0 +1,16 @@
+# behat.yml
+default:
+  formatter:
+    name:                   'pretty'
+    #Available formats are:
+    #- pretty: Prints the feature as is.
+    #- progress: Prints one character per step.
+    #- html: Generates a nice looking HTML report.
+    #- junit: Generates a report similar to Ant+JUnit.
+  context:
+      parameters:
+        base_url: http://localhost/codeigniter-academic/index.php/
+wiki:
+  context:
+    parameters:
+      base_url: http://en.wikipedia.org/

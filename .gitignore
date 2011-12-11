@@ -1,0 +1,11 @@
+# https://github.com/github/gitignore
+.DS_*i
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/*.*~
+#*/application/config/tweet.php
+*~
+

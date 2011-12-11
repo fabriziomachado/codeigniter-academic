@@ -1,0 +1,25 @@
+html, body {height: 100%;}
+* html #tudo {height: 100%;}
+
+#all {
+    text-align: left;   /* Alinha o texto do layout a esquerda; */
+    position: relative; /* Posiciono o container relativamente. */
+    min-height: 100%;   /* Defino que a altura minima será de 100% */
+}
+
+#footer {
+    position: absolute;     /* Posiciono ele absolutamente; */
+    bottom: 0;              /* Coloca ele na posição 0 do rodapé; */
+    height: 55px;
+    line-height: 35px;
+    width: 100%;
+    background-color:#300;
+    color:#fff; 
+}
+
+#head{ 
+    background-color:#333;
+    color:#fff;
+    height: 50px;
+    font-size:30px;
+}

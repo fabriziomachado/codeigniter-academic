@@ -1,0 +1,21 @@
+1:
+    name: 'Paola de Oliveira'
+    type: 'Student'
+2:
+    name: 'Gabriela Duarte'
+    type: 'Student'
+3:
+    name: 'Márcia Lima'
+    type: 'Teacher'
+4:
+    name: 'Fernanda Montenegro'
+    type: 'Teacher'
+5:
+    name: 'Virgin Stanford'
+    type: NULL
+6:
+    name: 'Fabrizio Colombo'
+    type: 'Student'    
+7:
+    name: 'Joao Marcos'
+    type: 'Student'
